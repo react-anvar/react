@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    display: inline-block;
+    margin: 30px;
+    width: 250px;
+    height: 280px;
+    padding: 10px;
+    color: white;
+}
+#card h1{
+font-size: 500;
+}
+
+
+
+#blue{
+    background: royalblue;
+}
+#gray{
+    background: gray;
+}
+#green{
+    background: green;
+}
+#red{
+    background: red;
+}
+#yellow{
+    background: rgb(228, 189, 16);
+}
+#aqua{
+    background: rgb(8, 132, 132);
+}
+#white{
+    background: rgb(211, 211, 211);
+}
+#black{
+    background: black;
+}
+
+
+
+#light{
+    color: white;
+}
+#dark {
+    color: black;
+}
